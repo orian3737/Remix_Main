@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.13+commit.abaa5c0e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "sayHelloWorld",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"halloWorld.sol": "HelloWorld"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"halloWorld.sol": {
+			"keccak256": "0xe36034299e3b074c1a49ce664b2a51df10bec4ab2706ffec71dbd5f07048a26c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0f2b3def4dbf05d65327a9f6d8af939191ffd7560333d1d641c40363a331fad8",
+				"dweb:/ipfs/Qme7kEp1xR4CLQMap61M2jSu9kYHbqvVMVf12XuC5PyZHK"
+			]
+		}
+	},
+	"version": 1
+}
